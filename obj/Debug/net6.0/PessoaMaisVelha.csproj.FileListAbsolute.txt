@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\obj\Debug\net6.0\refint\PessoaMaisVelha.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\PessoaMaisVelha\obj\Debug\net6.0\ref\PessoaMaisVelha.dll
